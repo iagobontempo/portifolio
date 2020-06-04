@@ -13,44 +13,21 @@ Bontempo pessoa advogados
 ### Trabalhos realizados pela agencia Raddar Digital
 ***OBS:*** *Os projetos abaixo fui responsavel por implementação (codificação do site) e publicação dos sites. Layout e mockup realizados pela equipe da agencia.*
 
-> WTEC AUTOMAÇÃO
-https://www.wtecc.com.br/
-
-> VIVA MEDICINA
-https://vivamedicinaintegrativa.com.br/
-
-> CASA DAS CHAPAS
-http://www.casadaschapas.com.br/
-
-> ARQUITETURA RENATA RIBEIRO
-http://arquiteturarenataribeiro.com.br/
-
-> BOA FIBRA
-http://boafibra.com.br
-
-> INFINDO FOTOGRAFIA
-http://infindo.com.br/
-
-> ORIZAM ARQUITETURA
-https://www.orizamarquitetura.com.br/
-
-> MKT LINK
-https://mktlink.com.br/
-
-> HOSPITAL SAMARITANO
-https://hospsamaritano.com.br/
-
-> GABITEC
-https://gabitec.com.br/
-
-> PEDREIRA RIO VERDE
-http://pedreirarv.com.br/
-
-> ROMAX
-http://romax.com.br/
-
-> NORMA ASSESSORIA
-http://normaassessoria.com.br
+| NOME  |      SITE URL      |  LINK |
+|----------|:-------------:|------:|
+| WTEC AUTOMAÇÃO |  https://www.wtecc.com.br/ | [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/Wtecc)|
+| VIVA MEDICINA |    https://vivamedicinaintegrativa.com.br/   |   [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/VivaMedicina) |
+| CASA DAS CHAPAS | http://www.casadaschapas.com.br/ |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/CasaDasChapas) |
+| ARQUITETURA RENATA RIBEIRO | http://arquiteturarenataribeiro.com.br/ |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/ArquiteturaRenataRibeiro) |
+| BOA FIBRA | http://boafibra.com.br |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/BoaFibra) |
+| INFINDO FOTOGRAFIA | http://infindo.com.br/ |     |
+| ORIZAM ARQUITETURA | https://www.orizamarquitetura.com.br/ |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/Orizam) |
+| HOSPITAL SAMARITANO | https://hospsamaritano.com.br/ |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/HospitalSamaritano) |
+| GABITEC | https://gabitec.com.br/ |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/Gabitec) |
+| PEDREIRA RIO VERDE | http://pedreirarv.com.br/ |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/PedreiraRioVerde) |
+| ROMAX | http://romax.com.br/ |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/Romax) |
+| NORMA ASSESSORIA | http://normaassessoria.com.br |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/NormaAssessoria) |
+| DR. GUSTAVO GIMENEZ | Sem dominio |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/DrGustavo) |
 
 > DR. GUSTAVO GIMENEZ
 Dr.gustavo sem domínio
