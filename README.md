@@ -1,14 +1,9 @@
 # Portifolio
 
-
-> STUDIO DOUS
-https://www.studiodous.com.br/
-
-> BONTEMPO ADVOCACIA
-https://www.bontempo.adv.br
-
-Bontempo advocacia
-Bontempo pessoa advogados
+| NOME  |      SITE URL      |  LINK |
+|----------|:-------------:|------:|
+| STUDIO DOUS |  https://www.studiodous.com.br/ | [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/StudioDous)|
+| BONTEMPO ADVOCACIA |    https://www.bontempo.adv.br   |   [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/BontempoAdvocacia) |
 
 ### Trabalhos realizados pela agencia Raddar Digital
 ***OBS:*** *Os projetos abaixo fui responsavel por implementação (codificação do site) e publicação dos sites. Layout e mockup realizados pela equipe da agencia.*
@@ -28,6 +23,3 @@ Bontempo pessoa advogados
 | ROMAX | http://romax.com.br/ |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/Romax) |
 | NORMA ASSESSORIA | http://normaassessoria.com.br |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/NormaAssessoria) |
 | DR. GUSTAVO GIMENEZ | Sem dominio |    [Link](https://github.com/iagobontempo/portifolio/tree/master/Websites/DrGustavo) |
-
-> DR. GUSTAVO GIMENEZ
-Dr.gustavo sem domínio
